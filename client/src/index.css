@@ -1,0 +1,7 @@
+.light-mode {
+  background: white;
+}
+
+.light-mode * {
+  color: black;
+}
